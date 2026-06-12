@@ -2,7 +2,7 @@
 # Projetos de Análise de Dados 
 
  
-## Projeto de segmentação de clientes 
+## Projeto Segmentação de Clientes 
 - `Objetivos`:  Segmentar clientes utilizando a técnica RFV (Recência, Frequência e Valor), técnica baseada no comportamento de compras e agrupamento em clusters parecidos.
 #### ✔️ Técnicas e tecnologias utilizadas
 - ``Python``
@@ -12,7 +12,7 @@
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/crikactba/Projetos/tree/main/ProjetoRFV_Streamlit)
 
 
-## Projeto previsão de renda
+## Projeto Previsão de Renda
 - `Objetivos`:  Identificar quais são as variaveis que apresentam alto grau de correlação com a renda e analiza-las.
           Por fim, desenvolvi o modelo preditivo de crédito utilizando o algoritmo de Machine Learning Random Forest.
           Na etapa final vinculei o modelo desenvolvido ao streamlit.
@@ -25,11 +25,16 @@ Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/cri
 #### 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/crikactba/Projetos/tree/main/ProjetoPrevisaoRenda)
 
-        
+## Projeto Risco de Inadimplência
+- `Objetivos`: Análise de risco de Inadimplência entre clientes de uma instituição financeira.
+#### ✔️ Técnicas e tecnologias utilizadas
+- ``Python``
+#### 📁 Acesso ao projeto
+Você pode acessar os arquivos do projeto clicando [aqui]( https://github.com/crikactba/Projetos/blob/main/ProjetoRiscoInadimpl%C3%AAncia/AnaliseRiscoInadimplencia.ipynb)        
       
           
           
-          
+         
 
           
       
