@@ -3,7 +3,7 @@
 
  
 ## Projeto de segmentação de clientes 
-- `Objetivos`:  Identificar .....
+- `Objetivos`:  Segmentar clientes utilizando a técnica RFV (Recência, Frequência e Valor), técnica baseada no comportamento de compras e agrupamento em clusters parecidos.
 #### ✔️ Técnicas e tecnologias utilizadas
 - ``Python``
 - ``RFV``
